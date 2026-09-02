@@ -1,0 +1,173 @@
+[
+  {
+    "date": "2023-10-07",
+    "living_held": 215,
+    "deceased_held": 40,
+    "event": "Hamas-led attack: 251 people abducted to Gaza. Added to 4 pre-war captives: Avera Mengistu (held since 2014, living), Hisham al-Sayed (2015, living), bodies of soldiers Hadar Goldin and Oron Shaul (2014). Total held: 255. Living/deceased split is a retrospective estimate: Israel later assessed that roughly 35-40 of those taken were killed on Oct 7 or died of wounds almost immediately; exact split unknowable at the time.",
+    "sources": ["https://en.wikipedia.org/wiki/October_7_attacks", "https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (251+4 totals); low (living/deceased split)",
+    "knowable_at_the_time": false
+  },
+  {
+    "date": "2023-10-31",
+    "living_held": 210,
+    "deceased_held": 40,
+    "event": "Oct 20: Judith and Natalie Raanan released (US citizens). Oct 23: Yocheved Lifshitz and Nurit Cooper released. Oct 30: Pvt. Ori Megidish rescued alive by IDF. Total held ~250.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (events); med (split)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2023-11-30",
+    "living_held": 100,
+    "deceased_held": 40,
+    "event": "Nov 24-30 truce deal: 105 civilians released (81 Israelis/dual nationals under the deal, 23 Thai and 1 Filipino in parallel arrangements) for ~240 Palestinian prisoners. IDF also recovered bodies of Yehudit Weiss and Cpl. Noa Marciano near Shifa in mid-Nov. Total held falls to ~140 (Israeli counts at the time cited ~136-138 remaining, definitions varied on pre-war captives).",
+    "sources": ["https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_ceasefire", "https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (105 released); med (running split)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2023-12-31",
+    "living_held": 95,
+    "deceased_held": 41,
+    "event": "Dec 15: IDF mistakenly shot dead three escaped hostages (Yotam Haim, Samer Talalka, Alon Shamriz) in Shejaiya; body of Elia Toledano recovered. End-2023 Israeli figure: ~136 hostages still held in Gaza (including 4 pre-Oct-7 captives), a growing number confirmed dead in absentia.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "med",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2024-02-29",
+    "living_held": 92,
+    "deceased_held": 42,
+    "event": "Feb 12 2024: Fernando Marman and Louis Har rescued alive in Rafah (Operation Golden Hand). Cairo/Paris talks on a deal stall. Israel confirms more deaths in absentia; ~134 held per Israeli counts.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (rescue); med (split)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2024-05-31",
+    "living_held": 88,
+    "deceased_held": 40,
+    "event": "May 17 and May 24 2024: IDF recovers 7 bodies (incl. Shani Louk, Amit Buskila, Itzhak Gelerenter, Ron Benjamin) from Gaza. ~128 held. Israel assesses at least a third of remaining hostages dead.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "med",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2024-06-30",
+    "living_held": 84,
+    "deceased_held": 36,
+    "event": "June 8 2024: Operation Arnon at Nuseirat rescues 4 living hostages (Noa Argamani, Almog Meir Jan, Andrey Kozlov, Shlomi Ziv); ~120 held (116 from Oct 7 + 4 pre-war).",
+    "sources": ["https://en.wikipedia.org/wiki/Nuseirat_rescue_operation", "https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (rescue); med (split)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2024-08-31",
+    "living_held": 64,
+    "deceased_held": 37,
+    "event": "July 24: 5 bodies recovered from Khan Younis. Aug 20: 6 bodies recovered. Aug 31-Sep 1: bodies of 6 hostages executed by Hamas days earlier (incl. Hersh Goldberg-Polin, Eden Yerushalmi, Carmel Gat) found in Rafah tunnel; mass protests/general strike follow. 101 hostages remain held (Israeli official count, incl. 4 pre-war), roughly 35+ of them confirmed dead.",
+    "sources": ["https://en.wikipedia.org/wiki/Killing_of_Israeli_hostages_in_Rafah", "https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (101 figure widely cited)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2024-12-31",
+    "living_held": 62,
+    "deceased_held": 38,
+    "event": "Standstill through autumn 2024; 100-101 held per Israeli counts (Israel assesses at least 36 dead; true figure higher). Doha talks revive in Dec 2024 after Trump election win and 'all hell to pay' ultimatum.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "med",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-01-19",
+    "living_held": 60,
+    "deceased_held": 37,
+    "event": "Jan 15 2025: ceasefire-hostage deal announced (Biden/Witkoff-brokered); effective Jan 19. 98 hostages held at start of deal. Jan 19: first 3 living released (Romi Gonen, Emily Damari, Doron Steinbrecher). Separately, IDF recovered the body of Oron Shaul (held since 2014) in mid-Jan.",
+    "sources": ["https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire", "https://www.timesofisrael.com/"],
+    "confidence": "high",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-03-01",
+    "living_held": 24,
+    "deceased_held": 35,
+    "event": "Phase 1 completed (Jan 19 - Mar 1): 25 living Israeli hostages + 8 bodies returned (bodies incl. Oded Lifshitz, Shiri, Ariel and Kfir Bibas on Feb 20-21; Ohad Yahalomi, Tsachi Idan, Itzik Elgarat, Shlomo Mantzur on Feb 27); pre-war captives Avera Mengistu (Feb 22) and Hisham al-Sayed (Feb 22) among the living released; 5 Thai nationals freed Jan 30 outside the framework. ~1,900 Palestinian prisoners released. 59 hostages remain: 24 believed alive, 35 dead.",
+    "sources": ["https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire", "https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "high (59/24 widely cited)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-05-12",
+    "living_held": 21,
+    "deceased_held": 37,
+    "event": "Edan Alexander (US-Israeli soldier) released alive May 12 2025 in direct US(Witkoff/Boehler)-Hamas channel, outside any Israeli deal. 58 hostages remain. Israeli assessments during spring revise living down toward ~20-21 (up to 3 of 24 in 'grave concern' category).",
+    "sources": ["https://en.wikipedia.org/wiki/Edan_Alexander"],
+    "confidence": "high (release); med (split)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-09-30",
+    "living_held": 20,
+    "deceased_held": 28,
+    "event": "IDF recovers bodies through 2025: Gadi Haggai and Judih Weinstein (Jun 5), Yair Yaakov and others (Jun), 3 more Jun 22 (Ofra Keidar, Yonatan Samerano, Shay Levinson), Ilan Weiss (Aug 8), others. By the eve of the October deal, 48 hostages held: 20 living, 28 deceased.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis", "https://www.timesofisrael.com/"],
+    "confidence": "high (48 = 20+28 universally cited)",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-10-13",
+    "living_held": 0,
+    "deceased_held": 24,
+    "event": "Under Trump 20-point plan ceasefire (effective Oct 10 2025): all 20 living hostages released the morning of Oct 13 2025 (in two batches, via Red Cross), in exchange for ~1,968 Palestinian prisoners/detainees. First 4 bodies returned that evening. 28 deceased remained to be returned at deal start.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_ceasefire_(2025)", "https://www.timesofisrael.com/"],
+    "confidence": "high",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-10-31",
+    "living_held": 0,
+    "deceased_held": 11,
+    "event": "Bodies returned in drip-feed batches through late October (several misidentified/partial remains incidents; Israel accused Hamas of stalling; Egyptian teams allowed to help locate remains). ~17 of 28 returned by end of October.",
+    "sources": ["https://www.pbs.org/newshour/world/israel-says-hamas-has-returned-the-remains-of-another-hostage"],
+    "confidence": "med",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-11-30",
+    "living_held": 0,
+    "deceased_held": 2,
+    "event": "Returns continue: body of Lt. Hadar Goldin (held since 2014) returned Nov 9 2025; Meny Godard and others returned mid-Nov; Dror Or identified Nov 26. Two deceased remain: Israeli police officer Ran Gvili and Thai national Sudthisak Rinthalak.",
+    "sources": ["https://www.cnn.com/2025/11/26/middleeast/israel-hamas-deceased-hostage-dror-or-intl-hnk", "https://www.haaretz.com/israel-news/2025-11-03/ty-article/.premium/what-we-know-about-the-eight-hostages-whose-bodies-are-still-held-in-gaza/0000019a-48d3-d054-affa-79ff01250000"],
+    "confidence": "high",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2025-12-31",
+    "living_held": 0,
+    "deceased_held": 1,
+    "event": "Remains of Sudthisak Rinthalak (Thai agricultural worker) returned in early December 2025. Only Ran Gvili remains in Gaza; joint search operations (with Egyptian/ICRC assistance) dig in eastern Gaza City.",
+    "sources": ["https://www.nbcnews.com/world/middle-east/hamas-returned-bodies-3-deceased-hostages-israel-rcna241408", "https://in.marketscreener.com/news/search-for-the-body-of-last-hostage-in-gaza-begins-ce7d51ddde8cf124"],
+    "confidence": "high",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "2026-01-26",
+    "living_held": 0,
+    "deceased_held": 0,
+    "event": "Body of Sgt. Maj. Ran Gvili, a police officer killed defending Kibbutz Alumim on Oct 7 2023, found in a cemetery in eastern Gaza City and returned to Israel after 843 days - the last hostage. First time since 2014 that no hostages, living or dead, are held in Gaza. Enabled the Jan 14 2026 announced transition to ceasefire phase 2.",
+    "sources": ["https://www.timesofisrael.com/all-of-them-home-now-body-of-last-hostage-ran-gvili-found-in-gaza-returned-to-israel/", "https://www.cnn.com/2026/01/26/middleeast/last-hostage-gaza-recovered-israel-intl", "https://www.fdd.org/analysis/2026/01/26/remains-of-ran-gvili-last-hostage-in-gaza-returned-to-israel/"],
+    "confidence": "high",
+    "knowable_at_the_time": true
+  },
+  {
+    "date": "meta",
+    "living_held": null,
+    "deceased_held": null,
+    "event": "COUNTING NOTES: (1) Totals: 251 abducted Oct 7 2023 + 4 pre-war = 255 ever held in this period. (2) Releases: 4 (Oct 2023) + 105 (Nov 2023 truce) + 30 living in phase 1 (25 Israelis + 5 Thai, Jan-Feb 2025) + 1 (Edan Alexander, May 2025) + 20 (Oct 13 2025) = 160 released alive; 8 rescued alive (Megidish, Marman, Har, 4 at Nuseirat); bodies returned via deals: 8 (Feb 2025) + 28 (Oct 2025-Jan 2026); remainder of bodies recovered by IDF operations 2023-2025. (3) Monthly living/deceased splits before Oct 2025 reflect Israeli contemporaneous assessments where available and retrospective knowledge otherwise; Hamas itself did not know the status of all hostages. (4) At least 41 hostages are assessed to have been killed on Oct 7 or died/were killed in captivity (incl. 6 executed Aug 2024, 3 killed by IDF fire Dec 2023, Bibas children killed Nov 2023).",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war_hostage_crisis"],
+    "confidence": "med",
+    "knowable_at_the_time": false
+  }
+]

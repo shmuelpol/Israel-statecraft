@@ -1,0 +1,15 @@
+{
+  "runId": "run-mst2yxsc-pn19",
+  "seed": "run-mst2yxsc-pn19",
+  "createdAt": "2026-08-14T15:07:03.957Z",
+  "versions": {
+    "scenario": "swords-of-iron@1.0.0",
+    "atlas": "atlas@1.0.0",
+    "prompts": "prompts@1.0.0-worldview26",
+    "engine": "1.0.0",
+    "models": {
+      "atlas": "atlas@1.0.0"
+    },
+    "provider": "claude-cli"
+  }
+}

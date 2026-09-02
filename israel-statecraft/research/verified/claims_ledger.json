@@ -1,0 +1,630 @@
+[
+  {
+    "id": "C01",
+    "claim": "On 7 October 2023 Hamas led a mass attack on southern Israel.",
+    "event_date": "2023-10-07",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/October_7_Hamas-led_attack_on_Israel",
+      "https://www.hrw.org/news/2024/07/17/october-7-crimes-against-humanity-war-crimes-hamas-led-groups"
+    ],
+    "notes": "Approximately 6,000 attackers from Gaza; deadliest single day for Jews since the Holocaust."
+  },
+  {
+    "id": "C02",
+    "claim": "Approximately 1,200 people were killed in the 7 October 2023 attack.",
+    "event_date": "2023-10-07",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://www.csis.org/analysis/hamass-october-7-attack-visualizing-data",
+      "https://en.wikipedia.org/wiki/October_7_Hamas-led_attack_on_Israel"
+    ],
+    "notes": "Best current official figure is 1,195 killed (815 civilians); '~1,200' is the standard rounded figure."
+  },
+  {
+    "id": "C03",
+    "claim": "About 250-251 people were abducted to Gaza on 7 October 2023.",
+    "event_date": "2023-10-07",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_Gaza_war_hostages",
+      "https://www.britannica.com/event/October-7-attack"
+    ],
+    "notes": "Settled official figure is 251 hostages taken."
+  },
+  {
+    "id": "C04",
+    "claim": "A temporary truce ran 24-30 November 2023 (4 days plus extensions).",
+    "event_date": "2023-11-24",
+    "status": "verified",
+    "confidence": 0.98,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire",
+      "https://www.npr.org/2023/11/27/1215330196/israel-and-hamas-hint-at-extending-truce-as-more-captives-are-slated-to-be-freed"
+    ],
+    "notes": "Qatar-mediated; initial 4-day deal extended twice; ended 1 December 2023."
+  },
+  {
+    "id": "C05",
+    "claim": "About 105 hostages were released during the November 2023 pause.",
+    "event_date": "2023-11-30",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire"
+    ],
+    "notes": "105 civilians freed: 81 from Israel, 23 Thai nationals, 1 Filipino."
+  },
+  {
+    "id": "C06",
+    "claim": "About 240 Palestinian prisoners were released during the November 2023 pause.",
+    "event_date": "2023-11-30",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2023_Gaza_war_ceasefire"
+    ],
+    "notes": "240 total: 107 minors and 133 adults; roughly three-quarters not convicted of any crime."
+  },
+  {
+    "id": "C07",
+    "claim": "Israel struck the Iranian consulate compound in Damascus on 1 April 2024, killing IRGC generals.",
+    "event_date": "2024-04-01",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://iranprimer.usip.org/blog/2024/apr/15/iran%E2%80%99s-unprecedented-attack-israel"
+    ],
+    "notes": "Trigger cited by Iran for the April 2024 direct attack."
+  },
+  {
+    "id": "C08",
+    "claim": "Iran launched a direct drone/missile attack on Israel overnight 13-14 April 2024.",
+    "event_date": "2024-04-13",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://iranprimer.usip.org/blog/2024/apr/15/iran%E2%80%99s-unprecedented-attack-israel",
+      "https://www.iranintl.com/en/202404152333"
+    ],
+    "notes": "~170 drones, at least 30 cruise missiles, 120+ ballistic missiles (~320 projectiles); ~99% intercepted with US/UK/France/Jordan assistance."
+  },
+  {
+    "id": "C09",
+    "claim": "Iran launched a second direct missile attack on Israel on 1 October 2024.",
+    "event_date": "2024-10-01",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel",
+      "https://iranprimer.usip.org/blog/2024/oct/02/explainer-iran%E2%80%99s-missile-assault-israel"
+    ],
+    "notes": "~180-200 ballistic missiles (Israeli media 181; IRGC claimed 200); one indirect fatality in the West Bank; retaliation for Nasrallah killing and Lebanon ground operation."
+  },
+  {
+    "id": "C10",
+    "claim": "Israel conducted retaliatory strikes on Iranian military targets on 26 October 2024.",
+    "event_date": "2024-10-26",
+    "status": "verified",
+    "confidence": 0.9,
+    "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10113/",
+      "https://en.wikipedia.org/wiki/October_2024_Iranian_strikes_on_Israel"
+    ],
+    "notes": "Covered by Commons Library briefing 'Israel-Iran October 2024' (CBP-10113)."
+  },
+  {
+    "id": "C11",
+    "claim": "Hezbollah pagers exploded across Lebanon on 17 September 2024.",
+    "event_date": "2024-09-17",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks",
+      "https://www.cbsnews.com/news/israeli-mossad-pager-walkie-talkie-hezbollah-plot-60-minutes/"
+    ],
+    "notes": "Mossad operation; ~12 killed, ~2,750-3,000 wounded on day one."
+  },
+  {
+    "id": "C12",
+    "claim": "Hezbollah walkie-talkies exploded on 18 September 2024.",
+    "event_date": "2024-09-18",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks"
+    ],
+    "notes": "~30 killed, 750+ wounded; combined two-day toll ~42 killed, ~3,500 wounded."
+  },
+  {
+    "id": "C13",
+    "claim": "Hassan Nasrallah was killed by Israeli strikes on 27 September 2024.",
+    "event_date": "2024-09-27",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timeline_of_the_Israel%E2%80%93Hezbollah_conflict_(17_September_2024_%E2%80%93_present)",
+      "https://www.cbsnews.com/news/israeli-mossad-pager-walkie-talkie-hezbollah-plot-60-minutes/"
+    ],
+    "notes": "Massive bunker-buster strike on Hezbollah HQ in Beirut's southern suburbs."
+  },
+  {
+    "id": "C14",
+    "claim": "Israel began a ground operation in southern Lebanon in October 2024.",
+    "event_date": "2024-10-01",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_Lebanon_war",
+      "https://en.wikipedia.org/wiki/Timeline_of_the_Israel%E2%80%93Hezbollah_conflict_(17_September_2024_%E2%80%93_present)"
+    ],
+    "notes": "Ground incursion launched 1 October 2024."
+  },
+  {
+    "id": "C15",
+    "claim": "An Israel-Hezbollah ceasefire was announced 26 November and took effect 27 November 2024.",
+    "event_date": "2024-11-27",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Timeline_of_the_Israel%E2%80%93Hezbollah_conflict_(17_September_2024_%E2%80%93_present)"
+    ],
+    "notes": "60-day framework built on UNSCR 1701 principles; later marred by continuing Israeli strikes and incomplete withdrawal."
+  },
+  {
+    "id": "C16",
+    "claim": "Yahya Sinwar was killed on 16 October 2024 in Rafah; confirmed 17 October.",
+    "event_date": "2024-10-16",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Killing_of_Yahya_Sinwar",
+      "https://www.aljazeera.com/news/2024/10/18/how-was-yahya-sinwar-killed-what-we-know-so-far"
+    ],
+    "notes": "Chance encounter with IDF patrol in Tal as-Sultan; ID confirmed via dental and fingerprint records."
+  },
+  {
+    "id": "C17",
+    "claim": "Ismail Haniyeh was assassinated in Tehran on 31 July 2024.",
+    "event_date": "2024-07-31",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Assassination_of_Ismail_Haniyeh",
+      "https://www.timesofisrael.com/hamas-leader-ismail-haniyeh-assassinated-in-tehran-missile-strike/"
+    ],
+    "notes": "Killed in IRGC guesthouse after Pezeshkian's inauguration; Israel confirmed responsibility in December 2024."
+  },
+  {
+    "id": "C18",
+    "claim": "The Assad regime collapsed on 8 December 2024.",
+    "event_date": "2024-12-08",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime"
+    ],
+    "notes": "HTS/SNA/Southern Operations Room offensive; Assad granted asylum in Moscow."
+  },
+  {
+    "id": "C19",
+    "claim": "Israel destroyed most of Syria's strategic military assets after Assad's fall and entered the Golan buffer zone.",
+    "event_date": "2024-12-10",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://acleddata.com/brief/syria-israeli-airstrikes-reach-all-time-high-after-assad-regime-falls",
+      "https://www.crisisgroup.org/cmt/middle-east-north-africa/east-mediterranean-mena/syria-israelpalestine/how-israels-overreach-syria-may-backfire"
+    ],
+    "notes": "70-80% of strategic capabilities destroyed within ~48 hours; ~400 km2 buffer zone seized including the Syrian summit of Mount Hermon; Netanyahu declared the 1974 disengagement agreement collapsed."
+  },
+  {
+    "id": "C20",
+    "claim": "Ahmed al-Sharaa became Syria's (transitional) president in January 2025 and remains in power as of August 2026.",
+    "event_date": "2025-01-29",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime",
+      "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel"
+    ],
+    "notes": "Former HTS leader; appointed president January 2025; still president in July 2026 statements."
+  },
+  {
+    "id": "C21",
+    "claim": "As of mid-2026 Syria seeks a security agreement (not full normalization) with Israel.",
+    "event_date": "2026-07-26",
+    "status": "verified",
+    "confidence": 0.9,
+    "sources": [
+      "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel",
+      "https://www.timesofisrael.com/syrias-sharaa-talks-with-israel-ongoing-could-lead-to-comprehensive-peace-deal/",
+      "https://english.enabbaladi.net/archives/2026/08/based-on-al-sharaas-remarks-what-are-syria-and-israel-negotiating/"
+    ],
+    "notes": "Talks aim to reactivate 1974 disengagement lines and secure Israeli withdrawal from post-Assad positions; Syria will not concede the Golan; Israel demands demilitarized SW Syria and Druze protection. No agreement signed as of 14 Aug 2026."
+  },
+  {
+    "id": "C22",
+    "claim": "A Gaza hostage/ceasefire deal took effect on 19 January 2025.",
+    "event_date": "2025-01-19",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-palestine-01-19-25/index.html",
+      "https://www.axios.com/2025/01/19/gaza-ceasefire-begins-israel-hamas-hostages"
+    ],
+    "notes": "Phased deal announced 15 January 2025; effective 11:15 local on 19 January."
+  },
+  {
+    "id": "C23",
+    "claim": "Phase 1 of the January 2025 deal covered 33 hostages over 42 days in exchange for ~1,900 Palestinian prisoners.",
+    "event_date": "2025-01-19",
+    "status": "verified",
+    "confidence": 0.93,
+    "sources": [
+      "https://www.npr.org/2025/01/19/nx-s1-5260204/israel-ceasefire-gaza-hostages-release",
+      "https://www.american.edu/sis/news/20250129-understanding-the-israel-hamas-ceasefire-agreement.cfm"
+    ],
+    "notes": "33 hostages listed (returned as 25 living + 8 deceased); Israel said it would release ~1,900 prisoners in this stage; Phase 2 never concluded."
+  },
+  {
+    "id": "C24",
+    "claim": "Israel resumed large-scale strikes in Gaza on 18 March 2025, ending the ceasefire.",
+    "event_date": "2025-03-18",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://www.pbs.org/newshour/world/israel-resumes-strikes-in-gaza-killing-more-than-400-palestinians-and-shattering-ceasefire-with-hamas",
+      "https://www.npr.org/2025/03/17/g-s1-54401/israel-launches-deadly-series-of-attack-on-gaza"
+    ],
+    "notes": "400+ killed on the first night; Israel cited Hamas refusal of Witkoff bridge proposals to release more hostages."
+  },
+  {
+    "id": "C25",
+    "claim": "Israel and Iran fought a 12-day war from 13 to 24 June 2025.",
+    "event_date": "2025-06-13",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://www.cfr.org/articles/us-israel-attack-iranian-nuclear-targets-assessing-damage",
+      "https://isis-online.org/isis-reports/post-attack-assessment-of-the-first-12-days-of-israeli-strikes-on-iranian-nuclear-facilities"
+    ],
+    "notes": "Israel's Operation Rising Lion opened 13 June 2025; ceasefire effective 24 June 2025."
+  },
+  {
+    "id": "C26",
+    "claim": "The US struck Fordow, Natanz and Isfahan on 21-22 June 2025 (Operation Midnight Hammer).",
+    "event_date": "2025-06-22",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_States_strikes_on_Iranian_nuclear_sites",
+      "https://www.csis.org/analysis/what-operation-midnight-hammer-means-future-irans-nuclear-ambitions"
+    ],
+    "notes": "125 aircraft; 14 GBU-57 MOPs on Fordow and Natanz; Tomahawks on Isfahan; strikes landed ~1:30-2:10am local 22 June (evening 21 June US time). Damage 'extremely severe' per JCS but degree of program setback disputed."
+  },
+  {
+    "id": "C27",
+    "claim": "CSIS assessed in August 2025 that Iran's nuclear program was badly damaged but ~400 kg of 60% HEU is unaccounted for.",
+    "event_date": "2025-08-06",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://nuclearnetwork.csis.org/damage-to-irans-nuclear-program-can-it-rebuild/"
+    ],
+    "notes": "Rodgers/Williams/Bermudez, CSIS PONI, 6 Aug 2025; Pickaxe Mountain facility untargeted; framed the moment as a diplomatic window."
+  },
+  {
+    "id": "C28",
+    "claim": "Trump announced a 20-point Gaza peace plan on 29 September 2025.",
+    "event_date": "2025-09-29",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://www.newsonair.gov.in/us-president-donald-trump-israeli-pm-netanyahu-announce-proposal-for-gaza-ceasefire-and-reconstruction",
+      "https://www.americanprogress.org/article/peace-in-gaza-hopefully-but-not-assuredly/"
+    ],
+    "notes": "Announced at the White House with Netanyahu (reported 29/30 September 2025); basis of the October framework and the Board of Peace."
+  },
+  {
+    "id": "C29",
+    "claim": "Israel and Hamas agreed the first phase of the Trump plan around 8-9 October 2025, with a ceasefire effective 10 October 2025.",
+    "event_date": "2025-10-10",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://www.axios.com/2025/10/08/gaza-deal-trump-announce-war-over",
+      "https://www.cbsnews.com/live-updates/israel-hamas-peace-deal-live-updates-hostages-trump-knesset-egypt/"
+    ],
+    "notes": "Trump announced the deal 8 October; signed 9 October; ceasefire and IDF pullback followed within 24 hours."
+  },
+  {
+    "id": "C30",
+    "claim": "Under the October 2025 ceasefire the IDF withdrew to a 'yellow line', retaining roughly 53% of Gaza.",
+    "event_date": "2025-10-10",
+    "status": "verified",
+    "confidence": 0.93,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yellow_Line_(Gaza)",
+      "https://www.foxnews.com/live-news/israel-hamas-peace-deal-trump-gaza-hostages"
+    ],
+    "notes": "Yellow Line divides Gaza: ~47% Palestinian-controlled west of the line, ~53% Israeli-controlled east of it, pending later phases."
+  },
+  {
+    "id": "C31",
+    "claim": "All 20 living hostages were released on 13 October 2025.",
+    "event_date": "2025-10-13",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://www.timesofisrael.com/all-20-remaining-living-hostages-return-to-israel-after-over-2-years-in-hamas-captivity/",
+      "https://embassies.gov.il/usa/en/news/13-additional-hostages-return-israel-prime-minister-s-office-announcement-13-oct-2025",
+      "https://www.nbcnews.com/world/middle-east/live-blog/israel-hamas-gaza-ceasfire-hostages-live-updates-rcna237201"
+    ],
+    "notes": "Released in two groups (7, then 13 named in the PMO announcement); exchanged for ~1,950-2,000 Palestinian prisoners/detainees; 4 deceased hostages returned the same day; Sharm el-Sheikh summit and Trump Knesset speech."
+  },
+  {
+    "id": "C32",
+    "claim": "The UN Security Council endorsed the Gaza framework via Resolution 2803 on 17 November 2025.",
+    "event_date": "2025-11-17",
+    "status": "verified",
+    "confidence": 1.0,
+    "sources": [
+      "https://press.un.org/en/2025/sc16225.doc.htm",
+      "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_2803"
+    ],
+    "notes": "Adopted 13-0-2 (China, Russia abstained); welcomes Board of Peace as transitional administration; authorizes International Stabilization Force through (initially) 2027."
+  },
+  {
+    "id": "C33",
+    "claim": "The remains of the final hostage, Staff Sgt. Ran Gvili, were returned in January 2026.",
+    "event_date": "2026-01-26",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://www.timesofisrael.com/all-of-them-home-now-body-of-last-hostage-ran-gvili-found-in-gaza-returned-to-israel/",
+      "https://www.cnn.com/2026/01/26/middleeast/last-hostage-gaza-recovered-israel-intl",
+      "https://embassies.gov.il/nepal/en/news/president-isaac-herzog-addresses-return-home-last-hostage-ran-gvili-26012026"
+    ],
+    "notes": "Returned 26 January 2026 after ~842-843 days; Herzog: first time since 2014 with no Israeli hostages in Gaza. Exact date verified: 2026-01-26."
+  },
+  {
+    "id": "C34",
+    "claim": "A new US-Israel war with Iran began in February 2026.",
+    "event_date": "2026-02-28",
+    "status": "verified",
+    "confidence": 0.97,
+    "sources": [
+      "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-between-united-states-and-iran",
+      "https://www.criticalthreats.org/analysis/iran-update-evening-special-report-february-28-2026",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/"
+    ],
+    "notes": "REAL, not fictional. Launched 28 February 2026 after Iran refused to end all enrichment; ~900 strikes in first 12 hours; goals included destroying nuclear/missile capability and regime change. Package claim 'Feb-April 2026 war' is accurate: conditional ceasefire declared 8 April 2026."
+  },
+  {
+    "id": "C35",
+    "claim": "Supreme Leader Ali Khamenei was killed on 28 February 2026.",
+    "event_date": "2026-02-28",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Assassination_of_Ali_Khamenei",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/"
+    ],
+    "notes": "Killed in Israeli strike on his Tehran compound during the opening of the 2026 war (per officials briefed, reported by Washington Post)."
+  },
+  {
+    "id": "C36",
+    "claim": "Mojtaba Khamenei succeeded his father as Iran's Supreme Leader in March 2026.",
+    "event_date": "2026-03-08",
+    "status": "verified",
+    "confidence": 0.93,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mojtaba_Khamenei",
+      "https://en.wikipedia.org/wiki/2026_Iranian_leadership_crisis",
+      "https://newlinesinstitute.org/middle-east-center/real-time-analysis-supreme-leader-choice-shows-regime-losing-coherence/"
+    ],
+    "notes": "Assumed office 8 March 2026 amid an unprecedented succession crisis; first father-to-son transfer; considered more hardline, IRGC-aligned."
+  },
+  {
+    "id": "C37",
+    "claim": "Iran closed the Strait of Hormuz in 2026.",
+    "event_date": "2026-03-04",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://www.congress.gov/crs-product/R45281",
+      "https://www.aljazeera.com/news/2026/6/11/iran-shuts-hormuz-strait-but-wasnt-it-already-closed",
+      "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html"
+    ],
+    "notes": "REAL. Declared closed 4 March 2026 (CRS gives 4 March; some accounts say late March for full blockage); reopened toll-free ~17 June under the MoU; closed again after early-July breakdown; effectively closed as of mid-August 2026 (~1 transit on 9 Aug vs ~73/day normal)."
+  },
+  {
+    "id": "C38",
+    "claim": "A conditional US/Israel-Iran ceasefire was declared on 8 April 2026.",
+    "event_date": "2026-04-08",
+    "status": "verified",
+    "confidence": 0.93,
+    "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10521/",
+      "https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire"
+    ],
+    "notes": "Repeatedly strained; renewed US strikes on Iran on 7 May 2026; formalization attempted via the June MoU."
+  },
+  {
+    "id": "C39",
+    "claim": "A 2026 Israel-Hezbollah war took place (claimed March-June 2026).",
+    "event_date": "2026-03-02",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026_Lebanon_war",
+      "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Lebanon_war",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10887/"
+    ],
+    "notes": "REAL, with a date correction: began 2 March 2026 (Hezbollah fire after Khamenei's killing); major combat through spring incl. Litani crossing, Bint Jbeil, Khiam; NOT cleanly ended by June — framework of 26 June rejected by Hezbollah, partial Israeli withdrawals late July, talks and sporadic fighting continuing into August 2026."
+  },
+  {
+    "id": "C40",
+    "claim": "On 8 April 2026 Israel launched its heaviest attacks of the war on Lebanon.",
+    "event_date": "2026-04-08",
+    "status": "verified",
+    "confidence": 0.9,
+    "sources": [
+      "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+      "https://en.wikipedia.org/wiki/2026_Lebanon_war"
+    ],
+    "notes": "At least 357 killed; came immediately after the Iran-front ceasefire announcement."
+  },
+  {
+    "id": "C41",
+    "claim": "The 2026 Lebanon war caused mass casualties and displacement.",
+    "event_date": "2026-04-15",
+    "status": "verified",
+    "confidence": 0.85,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026_Lebanon_war"
+    ],
+    "notes": "Wikipedia-cited tallies: 4,300+ Lebanese civilians killed, 12,000+ injured, 1.2M+ displaced; ~40 Israeli soldiers and 3 civilians killed; 1,000-2,500 Hezbollah fighters killed (estimates vary). Figures likely to be revised; treat totals as approximate."
+  },
+  {
+    "id": "C42",
+    "claim": "A temporary Israel-Hezbollah ceasefire began 16 April 2026 and was extended multiple times.",
+    "event_date": "2026-04-16",
+    "status": "verified",
+    "confidence": 0.85,
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026_Lebanon_war",
+      "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire"
+    ],
+    "notes": "Initial 10-day truce; interrupted by flare-ups (e.g., late-April strikes reported by Al Jazeera 27 April 2026)."
+  },
+  {
+    "id": "C43",
+    "claim": "The US and Iran signed a memorandum of understanding in June 2026 (Islamabad Memorandum).",
+    "event_date": "2026-06-17",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://en.wikipedia.org/wiki/Islamabad_Memorandum",
+      "https://www.presidency.ucsb.edu/documents/islamabad-memorandum-understanding-between-the-united-states-america-and-the-islamic",
+      "https://arabcenterdc.org/resource/the-us-iran-interim-deal-a-fragile-ceasefire/",
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10637/"
+    ],
+    "notes": "REAL. Announced 14 June, signed 17 June 2026 by Trump, Pezeshkian, and Pakistani PM Shehbaz Sharif (Versailles/Tehran/Islamabad); Pakistan-Qatar mediation; 14 points: ceasefire, Hormuz reopening, blockade end, 60-day final-deal window, reconstruction concept. Israel objected and was not a party."
+  },
+  {
+    "id": "C44",
+    "claim": "The June 2026 US-Iran memorandum collapsed in July 2026.",
+    "event_date": "2026-07-08",
+    "status": "verified",
+    "confidence": 0.93,
+    "sources": [
+      "https://www.cnn.com/2026/07/09/world/live-news/iran-war-trump",
+      "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
+      "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/"
+    ],
+    "notes": "Iran struck commercial vessels off its 'preapproved route' 6-7 July; Trump declared the MoU 'over' on 8 July; renewed US strikes and naval blockade of Iranian ports followed; Iran-Oman channel on a Hormuz route active in early August."
+  },
+  {
+    "id": "C45",
+    "claim": "Benjamin Netanyahu is Israel's prime minister as of August 2026, with elections scheduled.",
+    "event_date": "2026-08-14",
+    "status": "verified",
+    "confidence": 0.95,
+    "sources": [
+      "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election",
+      "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
+      "https://www.britannica.com/event/2026-Israeli-Elections"
+    ],
+    "notes": "Knesset adjourned/dissolved 17 July 2026; general election set for 27 October 2026 — first on-schedule election in ~4 decades; widely framed as a referendum on Netanyahu's handling of Oct 7 and the war; Likud leads polls but coalition math difficult; Gadi Eisenkot the main challenger."
+  },
+  {
+    "id": "C46",
+    "claim": "Gaza status August 2026: disarmament dispute between the Board of Peace and Israel; ISF embryonic; IDF beyond the yellow line.",
+    "event_date": "2026-08-09",
+    "status": "verified",
+    "confidence": 0.9,
+    "sources": [
+      "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms",
+      "https://www.timesofisrael.com/netanyahu-announces-israel-didnt-agree-to-board-of-peaces-plan-to-disarm-hamas/",
+      "https://www.cnn.com/2026/08/09/middleeast/israel-gaza-trump-netanyahu-plan-intl",
+      "https://israelpolicyforum.org/2026/08/06/the-gaza-agreement-in-limbo"
+    ],
+    "notes": "Early Aug 2026: Trump announced a Board of Peace 'historic agreement' on complete Hamas disarmament; Netanyahu said Israel did not agree to its terms and won't withdraw until Hamas fully disarms; IDF reportedly expanded from the yellow line toward an 'orange line' (~65% of Gaza vs ~53% at ceasefire); ISF has a US commander, only ~5 troop-contributing countries pledged, small deployment; Board of Peace chaired by Trump; NCAG/transitional committee handles civil administration; Israeli strikes continue episodically."
+  },
+  {
+    "id": "C47",
+    "claim": "Iran's nuclear program status is opaque as of August 2026.",
+    "event_date": "2026-08-14",
+    "status": "verified",
+    "confidence": 0.85,
+    "sources": [
+      "https://www.armscontrol.org/factsheets/status-irans-nuclear-program-1",
+      "https://responsiblestatecraft.org/iran-nuclear-program/",
+      "https://nuclearnetwork.csis.org/damage-to-irans-nuclear-program-can-it-rebuild/"
+    ],
+    "notes": "No IAEA inspectors since June 2025; ~400 kg of 60% HEU unaccounted for; Feb 2026 war aimed at nuclear/missile destruction but no confirmed evidence the program was eliminated; nuclear commitments were part of the collapsed June 2026 MoU."
+  },
+  {
+    "id": "C48",
+    "claim": "Lebanon/Hezbollah status August 2026: disarmament-conditioned framework, partial Israeli withdrawal, unresolved.",
+    "event_date": "2026-08-04",
+    "status": "verified",
+    "confidence": 0.88,
+    "sources": [
+      "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work",
+      "https://www.terrorism-info.org.il/en/spotlight-on-terrorism-hezbollah-and-lebanon-july-27-august-4-2026/",
+      "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire"
+    ],
+    "notes": "June 26 framework ties Israeli withdrawal (Israel holds roughly a fifth of Lebanon) to full Hezbollah disarmament; Hezbollah rejects; Lebanese Army running 'pilot area' takeovers; Israel-Lebanon talks resumed in Rome 4 Aug 2026; Israeli operations against Hezbollah infrastructure continue in the border zone."
+  },
+  {
+    "id": "C49",
+    "claim": "Source S09 (AP article apnews.com/article/1c1e810598dd3323bcb5f0f771362471) exists and supports package claims.",
+    "event_date": null,
+    "status": "unverified",
+    "confidence": 0.2,
+    "sources": [],
+    "notes": "apnews.com is unfetchable by tool and searches for this article ID returned no hits; cannot confirm the article's existence or content. Any claim resting solely on S09 should be re-sourced."
+  },
+  {
+    "id": "C50",
+    "claim": "UN Digital Library record 4093207 is UNSC Resolution 2803 (2025).",
+    "event_date": "2025-11-17",
+    "status": "unverified",
+    "confidence": 0.5,
+    "sources": [
+      "https://press.un.org/en/2025/sc16225.doc.htm",
+      "https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_2803"
+    ],
+    "notes": "digitallibrary.un.org blocks automated access (403) and the specific record number could not be confirmed via search; the resolution itself (S/RES/2803, 17 Nov 2025, 13-0-2) is fully verified via UN press release and full text mirrors. Use press.un.org as the citation instead."
+  },
+  {
+    "id": "C51",
+    "claim": "Hostage arithmetic across the war is consistent: 251 taken; 105 released Nov 2023; 30 living + bodies returned under the Jan 2025 deal; 20 living + 28 deceased remained at the Oct 2025 deal; last body returned 26 Jan 2026.",
+    "event_date": "2026-01-26",
+    "status": "verified",
+    "confidence": 0.85,
+    "sources": [
+      "https://en.wikipedia.org/wiki/List_of_Gaza_war_hostages",
+      "https://www.timesofisrael.com/all-20-remaining-living-hostages-return-to-israel-after-over-2-years-in-hamas-captivity/",
+      "https://www.timesofisrael.com/all-of-them-home-now-body-of-last-hostage-ran-gvili-found-in-gaza-returned-to-israel/"
+    ],
+    "notes": "48 hostages (20 living, 28 deceased) remained when the October 2025 deal took effect; all 20 living freed 13 Oct 2025; deceased returned in batches through 26 Jan 2026 (Ran Gvili last)."
+  },
+  {
+    "id": "C52",
+    "claim": "The UK recognized the State of Palestine in September 2025.",
+    "event_date": "2025-09-21",
+    "status": "verified",
+    "confidence": 0.9,
+    "sources": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-10235/"
+    ],
+    "notes": "Per Commons Library CBP-10235: UK recognized Palestine in September 2025 with provisional 1967-line borders."
+  }
+]

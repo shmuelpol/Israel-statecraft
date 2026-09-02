@@ -1,0 +1,7 @@
+node_modules/
+dist/
+app/client/dist/
+.env
+.env.local
+runs/live-*/
+*.log

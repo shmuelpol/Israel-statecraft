@@ -1,0 +1,170 @@
+[
+  {
+    "date": "2023-10-27",
+    "theater": "Gaza",
+    "state": "Ground invasion of northern Gaza begins",
+    "detail": "After 3 weeks of air campaign, IDF divisions enter northern Gaza; Gaza City encircled early Nov; Shifa raid Nov 15. By the Nov 24 truce IDF holds most of the area north of Wadi Gaza (~1/3 of the Strip as maneuver zone, not full control).",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "high"
+  },
+  {
+    "date": "2023-12-04",
+    "theater": "Gaza",
+    "state": "Khan Younis offensive",
+    "detail": "After truce collapse Dec 1, IDF pushes into Khan Younis (Dec 2023-Apr 2024). Peak-period IDF presence spans much of the north plus Khan Younis salients; est. ~30-40% of Strip under IDF maneuver control. Netzarim corridor (bisecting Strip south of Gaza City) built as permanent line.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "med (percentage estimates)"
+  },
+  {
+    "date": "2024-04-07",
+    "theater": "Gaza",
+    "state": "Khan Younis withdrawal; low-footprint phase",
+    "detail": "98th Division exits Khan Younis; IDF retains Netzarim corridor + ~1km perimeter buffer, est. ~15-20% of Strip. Period of raids (incl. return raids to Shifa, Zeitoun).",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "med"
+  },
+  {
+    "date": "2024-05-06",
+    "theater": "Gaza",
+    "state": "Rafah offensive; Philadelphi corridor seized",
+    "detail": "May 6-7 2024: IDF takes Rafah crossing despite US objections; by late May IDF announces operational control of the full Philadelphi corridor (Gaza-Egypt border, ~14km). Summer 2024: control ~30-35% (perimeter + Netzarim + Philadelphi + Rafah).",
+    "sources": ["https://en.wikipedia.org/wiki/Rafah_offensive", "https://en.wikipedia.org/wiki/Philadelphi_Corridor"],
+    "confidence": "high (events); med (percentage)"
+  },
+  {
+    "date": "2024-10-06",
+    "theater": "Gaza",
+    "state": "Northern Gaza re-clearing (Jabalia siege)",
+    "detail": "Oct-Dec 2024: intense operations in Jabalia/Beit Lahia/Beit Hanoun amid 'Generals' Plan' debate on emptying the north; IDF holds north-Gaza pockets, Netzarim, Philadelphi, perimeter; est. ~35-40%.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "med"
+  },
+  {
+    "date": "2025-01-19",
+    "theater": "Gaza",
+    "state": "Ceasefire phase 1 withdrawal lines",
+    "detail": "IDF pulls back to a perimeter buffer (300-700m+) along the Gaza fence and retains Philadelphi in modified form; withdraws from Netzarim corridor Feb 9 2025, allowing ~500k displaced to return north. IDF footprint at minimum of the war, est. ~10-15% of Strip.",
+    "sources": ["https://en.wikipedia.org/wiki/2025_Gaza_war_ceasefire"],
+    "confidence": "high (events); med (percentage)"
+  },
+  {
+    "date": "2025-03-18",
+    "theater": "Gaza",
+    "state": "War resumes; re-expansion",
+    "detail": "Israel resumes strikes Mar 18 2025 (400+ killed first day) and retakes Netzarim; April: Morag corridor cut between Khan Younis and Rafah; 'security zones' expanded. By May, Israel says it controls ~50%.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "high (events); med (percentage)"
+  },
+  {
+    "date": "2025-05-16",
+    "theater": "Gaza",
+    "state": "Operation Gideon's Chariots",
+    "detail": "Large mobilization to seize and hold territory; by July-August 2025 IDF states it controls ~75% of the Strip. Sept 2025: Gaza City offensive (Gideon's Chariots B) pushes to ~80% claims; ~1M displaced south.",
+    "sources": ["https://en.wikipedia.org/wiki/Gaza_war"],
+    "confidence": "med-high (75% was official IDF statement)"
+  },
+  {
+    "date": "2025-10-10",
+    "theater": "Gaza",
+    "state": "Ceasefire: withdrawal to the Yellow Line",
+    "detail": "Under Trump 20-point plan, IDF withdraws to the 'Yellow Line' demarcation, retaining 53% of the Strip (eastern half + perimeter + Philadelphi); Palestinians confined to <50% of territory. Line marked with yellow blocks (only partially at first), then berms from Dec 2025.",
+    "sources": ["https://en.wikipedia.org/wiki/Yellow_Line_(Gaza)", "https://gisha.org/en/gaza-now-facts-and-figures/"],
+    "confidence": "high"
+  },
+  {
+    "date": "2026-01-15",
+    "theater": "Gaza",
+    "state": "Phase 2 declared; line creep begins",
+    "detail": "Jan 14 2026: US announces transition to ceasefire phase 2 (after last hostage recovery). Israel moves Yellow Line markers deeper into Gaza in January, causing confusion; ~1,259 Palestinians killed by Israeli fire during ceasefire period through Aug 11 2026 (Gaza MoH via Gisha).",
+    "sources": ["https://en.wikipedia.org/wiki/Yellow_Line_(Gaza)", "https://gisha.org/en/gaza-now-facts-and-figures/", "https://jstreet.org/nine-months-in-assessing-the-status-of-the-gaza-ceasefire/"],
+    "confidence": "high"
+  },
+  {
+    "date": "2026-05-15",
+    "theater": "Gaza",
+    "state": "Expansion toward 70% amid disarmament deadlock",
+    "detail": "Late April 2026: Reuters-cited reporting puts IDF control at >=64%; May 2026: Netanyahu says Israel controls 60% and he has ordered the IDF to extend control to 70% ('Orange Line' plans +11% beyond Yellow Line) as phase-2 disarmament talks stall. Board of Peace works to 'blur' the line disputes.",
+    "sources": ["https://en.wikipedia.org/wiki/Yellow_Line_(Gaza)", "https://www.timesofisrael.com/board-of-peace-blurs-yellow-line-as-it-wages-uphill-battle-to-advance-gaza-plan/"],
+    "confidence": "med-high"
+  },
+  {
+    "date": "2026-08-13",
+    "theater": "Gaza",
+    "state": "Status as of Aug 2026",
+    "detail": "IDF holds roughly 60-70% of the Strip behind an expanded Yellow/Orange line. July 30 2026: US/Board of Peace announce Hamas agreed to a 15-point disarmament-for-withdrawal roadmap (NCAG civil administration, ISF separation force); Israel has not publicly accepted; Aug 4: BoP says no withdrawal before disarmament. Deal in limbo.",
+    "sources": ["https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know", "https://israelpolicyforum.org/2026/08/06/the-gaza-agreement-in-limbo", "https://www.fdd.org/analysis/2026/08/13/israel-seeks-to-preserve-military-depth-in-gaza/"],
+    "confidence": "high"
+  },
+  {
+    "date": "2024-10-01",
+    "theater": "Lebanon",
+    "state": "Ground invasion of southern Lebanon",
+    "detail": "After pager/walkie-talkie attacks (Sept 17-18), Operation Northern Arrows air campaign (Sept 23) and Nasrallah's killing (Sept 27), IDF launches 'limited, localized' ground raids Oct 1 2024 across first-line villages; up to 4-5 divisions engaged; systematic destruction of Hezbollah border infrastructure to a depth of a few km.",
+    "sources": ["https://en.wikipedia.org/wiki/2024_Israeli_invasion_of_Lebanon"],
+    "confidence": "high"
+  },
+  {
+    "date": "2024-11-27",
+    "theater": "Lebanon",
+    "state": "Ceasefire (60-day framework)",
+    "detail": "US/France-brokered ceasefire based on UNSCR 1701: Hezbollah north of Litani, LAF deploys south, Israel to withdraw in 60 days (extended to Feb 18 2025). US-chaired monitoring mechanism.",
+    "sources": ["https://en.wikipedia.org/wiki/2024_Israel%E2%80%93Lebanon_ceasefire_agreement"],
+    "confidence": "high"
+  },
+  {
+    "date": "2025-02-18",
+    "theater": "Lebanon",
+    "state": "Withdrawal completed except 5 points",
+    "detail": "IDF withdraws from south Lebanon but retains 5 hilltop positions inside Lebanon (opposite Metula, Avivim, Zar'it, Shtula, Margaliot sectors: incl. Labbouneh, Jabal Blat, Jal al-Deir, Markaba ridge, Hamames hill). Near-daily Israeli strikes on Hezbollah targets continue through 2025 (hundreds killed), citing ceasefire enforcement.",
+    "sources": ["https://en.wikipedia.org/wiki/2024_Israel%E2%80%93Lebanon_ceasefire_agreement", "https://www.securitycouncilreport.org/monthly-forecast/2026-03/lebanon-37.php"],
+    "confidence": "high"
+  },
+  {
+    "date": "2025-12-31",
+    "theater": "Lebanon",
+    "state": "LAF disarmament phase 1 south of Litani; Paris talks",
+    "detail": "Lebanese government (Aug 2025) tasks LAF with disarming Hezbollah; phase 1 south of Litani proceeds partially; Dec 2025 Paris talks target broader disarmament. Feb 2026: LAF presents phase-2 plan (Litani-Awali, 4-8 months); Hezbollah refuses disarmament north of Litani while Israel strikes/occupies points.",
+    "sources": ["https://www.securitycouncilreport.org/monthly-forecast/2026-03/lebanon-37.php", "https://www.aljazeera.com/features/2026/3/10/as-israel-intensifies-lebanon-attacks-hezbollah-disarmament-takes-backseat"],
+    "confidence": "med-high"
+  },
+  {
+    "date": "2026-03-05",
+    "theater": "Lebanon",
+    "state": "Flare-up after Khamenei assassination",
+    "detail": "Hezbollah fires projectiles at Israel in response to the Feb 28 2026 US-Israel strikes on Iran; IDF responds with waves of strikes on Beirut dahiya, Bekaa and the south: 31+ killed, 149 wounded in early-March round.",
+    "sources": ["https://www.aljazeera.com/features/2026/3/10/as-israel-intensifies-lebanon-attacks-hezbollah-disarmament-takes-backseat", "https://gulfnews.com/world/mena/israel-army-says-struck-hezbollah-targets-in-several-areas-of-lebanon-2-1.500403380"],
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
+    "theater": "Lebanon",
+    "state": "Israel-Lebanon Framework Agreement signed",
+    "detail": "Signed at the State Department after 5th round of direct talks: mutual recognition of sovereignty, commitment to negotiate an end to the state of war, phased Israeli withdrawal starting with two pilot areas in the south, conditioned on verified LAF dismantlement of non-state armed groups. Hezbollah (Qassem) rejects it as 'surrender'. Israel strikes Beirut area again June 28 and July; as of Aug 2026 Israel still holds the 5 points and strikes continue.",
+    "sources": ["https://www.jta.org/2026/06/26/israel/lebanon-israel-sign-framework-agreement-to-end-hostilities", "https://www.cnn.com/2026/06/26/middleeast/israel-and-lebanon-sign-framework-agreement-latam-intl", "https://www.washingtoninstitute.org/policy-analysis/14-points-14-points-assessing-israel-lebanon-framework-agreement", "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal"],
+    "confidence": "high"
+  },
+  {
+    "date": "2024-12-08",
+    "theater": "Syria",
+    "state": "Assad falls; IDF seizes buffer zone + Hermon",
+    "detail": "Same day HTS takes Damascus, IDF crosses the 1974 Alpha line, occupies the ~235 sq km UNDOF buffer zone and the Syrian side of Mt. Hermon (highest peak), plus dominating positions beyond; ~480 strikes in 48h destroy most of Syria's navy, air force, air defenses, missile stocks.",
+    "sources": ["https://en.wikipedia.org/wiki/Fall_of_the_Assad_regime"],
+    "confidence": "high"
+  },
+  {
+    "date": "2025-07-16",
+    "theater": "Syria",
+    "state": "Suwayda crisis strikes; security-pact talks",
+    "detail": "July 2025: Israel strikes Syrian MoD in Damascus during Druze-Bedouin violence in Suwayda; enforces demilitarization of southern Syria. US-brokered Israel-Syria security talks (al-Sharaa government) run through late 2025, near a deal by Nov 2025 but unsigned; Israel expands buffer-zone positions in Dec 2025 despite US pressure.",
+    "sources": ["https://thesoufancenter.org/intelbrief-2025-december-4/", "https://www.timesofisrael.com/syrias-sharaa-talks-with-israel-ongoing-could-lead-to-comprehensive-peace-deal/"],
+    "confidence": "med-high"
+  },
+  {
+    "date": "2026-08-13",
+    "theater": "Syria",
+    "state": "Status as of Aug 2026",
+    "detail": "IDF remains in the buffer zone and on Mt. Hermon's peak; DM Katz says Israel will stay on Hermon and in the zone under any deal. Israel's proposal: demilitarized zone from south of Damascus to the border + de facto no-fly zone; al-Sharaa says security agreement possible without conceding Golan claim. Israeli aircraft transited Syrian airspace freely during the 2026 Iran war.",
+    "sources": ["https://www.timesofisrael.com/israel-presented-syria-with-detailed-proposal-for-new-security-agreement-report/", "https://www.jpost.com/middle-east/article-903668", "https://en.wikipedia.org/wiki/Syria_in_the_2026_Iran_war"],
+    "confidence": "med-high"
+  }
+]

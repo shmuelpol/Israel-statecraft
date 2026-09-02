@@ -1,0 +1,15 @@
+{
+  "runId": "run-msuqwf82-d1p5",
+  "seed": "naive-paralysis",
+  "createdAt": "2026-08-15T19:04:43.541Z",
+  "versions": {
+    "scenario": "swords-of-iron@1.0.0",
+    "atlas": "atlas@1.0.0",
+    "prompts": "prompts@1.0.0-worldview26",
+    "engine": "1.0.0",
+    "models": {
+      "atlas": "atlas@1.0.0"
+    },
+    "provider": "mock"
+  }
+}

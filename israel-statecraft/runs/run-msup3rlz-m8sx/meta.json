@@ -1,0 +1,15 @@
+{
+  "runId": "run-msup3rlz-m8sx",
+  "seed": "run-msup3rlz-m8sx",
+  "createdAt": "2026-08-15T18:14:26.954Z",
+  "versions": {
+    "scenario": "swords-of-iron@1.0.0",
+    "atlas": "atlas@1.0.0",
+    "prompts": "prompts@1.0.0-worldview26",
+    "engine": "1.0.0",
+    "models": {
+      "atlas": "atlas@1.0.0"
+    },
+    "provider": "mock"
+  }
+}

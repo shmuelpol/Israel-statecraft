@@ -1,0 +1,36 @@
+{
+  "name": "israel-statecraft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time AI-directed strategy game: governing Israel through the Swords of Iron war (2023-2026). Hebrew RTL, deterministic engine, offline Atlas, replayable runs.",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "vite build app/client && tsc -p tsconfig.check.json --noEmit",
+    "start": "cross-env NODE_ENV=production tsx app/server/main.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "atlas": "tsx scripts/build-atlas.ts",
+    "calibrate": "tsx scripts/calibrate.ts",
+    "record-demos": "tsx scripts/record-demos.ts",
+    "typecheck": "tsc -p tsconfig.check.json --noEmit"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tsx": "^4.19.2",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/ws": "^8.5.13",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^25.7.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3",
+    "vitest": "^2.1.8"
+  }
+}

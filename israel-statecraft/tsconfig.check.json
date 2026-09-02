@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["engine/src", "ai/src", "atlas/src", "app/server", "app/client/src", "scripts", "tests"]
+}

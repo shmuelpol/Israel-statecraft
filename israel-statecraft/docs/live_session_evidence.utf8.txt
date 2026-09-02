@@ -1,0 +1,33 @@
+# Live AI Session Evidence (claude-cli engine)
+
+Run: run-mssydqcu-zmuv — provider claude-cli (local logged-in `claude` CLI, model claude-haiku-4-5-20251001).
+The deterministic rule engine remains the causal backbone; the live session generated the texts below at play time.
+
+## Player question → live adviser answer
+- [שאלת השחקן] מה ההערכה שלך לגבי הסיכון שחזבאללה יפתח במלחמה כוללת בשבועות הקרובים? (status: answered)
+- [חזבאללה · internal] חזבאללה בשיא כוחו: עשרות אלפי רקטות, כוח רדואן בגבול. מלחמה כוללת תגבה מחיר כבד מהעורף. יודגש: התמונה חלקית, והערכות אלו עלולות להתבדות.
+
+## Meta Director channel (live)
+- [player] למה מדד ההרתעה ירד אחרי המתקפה? הרי הגבנו בעוצמה
+- [director] סיכום סיבתי: הרתעה בעולם הזה נבנית מאבדות שהאויב מתקשה לספר כניצחון — שטח, שרידות ארגונית, נכסים אסטרטגיים — יותר מאשר ממספרי הרוגים. הכרזות ניצחון של האויב הן פעולה רציונלית מבחינתו, גם כשהן מנותקות מהמציאות החומרית.
+
+## Live world reactions in the feed (last 12 comms)
+- [מערכת הביטחון · internal] בהיעדר הכרעה, צה״ל נערך להגנה בצפון ומרכז את המאמץ בעזה, בהתאם להמלצת המטה.
+- [מערכת הביטחון · internal] בהיעדר אישור, צה״ל מבצע פשיטות מוגבלות בשולי הרצועה בהתאם לסמכות הקיימת.
+- [האופוזיציה · public] שוב ושוב ההנהגה שותקת והמערכת מחליטה לבדה. מי בעצם מנהל את המדינה?
+- [מערכת הביטחון · internal] בהיעדר הכרעה, חלון המתווה נסגר. המתווכים מדווחים כי חמאס הקשיח עמדות.
+- [מערכת הביטחון · internal] בהיעדר הנחיה, הדרג המקצועי פעל לפי מדיניות ברירת המחדל.
+- [דובר צה״ל · outcome] בוצעה תגובה ממוקדת בהתאם להנחיה. הזירה רותחת אך מרוסנת.
+- [מערכת הביטחון · internal] בהיעדר הנחיה, הדרג המקצועי פעל לפי מדיניות ברירת המחדל.
+- [האופוזיציה · public] ההבלגה הזו היא הזמנה למתקפה הבאה. הממשלה מפקירה את ההרתעה.
+- [מערכת הביטחון · internal] בהיעדר הנחיה, הדרג המקצועי פעל לפי מדיניות ברירת המחדל.
+- [דובר צה״ל · outcome] בוצעה תגובה ממוקדת בהתאם להנחיה. הזירה רותחת אך מרוסנת.
+- [מערכת הביטחון · internal] בהיעדר הנחיה, הדרג המקצועי פעל לפי מדיניות ברירת המחדל.
+- [דובר צה״ל · outcome] בוצעה תגובה ממוקדת בהתאם להנחיה. הזירה רותחת אך מרוסנת.
+
+## AI-call latency log (from the replay log)
+- {"source":"claude-cli","kind":"prime","ms":27416,"ok":false,"error":"parse failure: SyntaxError: Unexpected token 'H', \"Hi Shmuel \"... is not valid JSON | stderr: Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: "}
+- {"source":"claude-cli","kind":"adviser","ms":27104,"ok":false,"error":"parse failure: SyntaxError: Unexpected token 'נ', \"נראה שההוד\"... is not valid JSON | stderr: Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: "}
+- {"source":"claude-cli","kind":"meta","ms":27348,"ok":false,"error":"parse failure: SyntaxError: Unexpected token 'נ', \"נראה שהבקש\"... is not valid JSON | stderr: Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: "}
+- {"source":"claude-cli","kind":"world-reaction","ms":28130,"ok":false,"error":"parse failure: SyntaxError: Unexpected token 'נ', \"נראה שההוד\"... is not valid JSON | stderr: Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: "}
+- {"source":"claude-cli","kind":"world-reaction","ms":26870,"ok":false,"error":"parse failure: SyntaxError: Unexpected token 'נ', \"נראה שההוד\"... is not valid JSON | stderr: Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: "}
